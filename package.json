@@ -1,0 +1,17 @@
+{
+    "name": "@aljaroudi/randos",
+    "description": "Everything about random numbers",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "app.js",
+    "bin": "app.js",
+    "author": "Mohammed Aljaroudi",
+    "repository": {
+        "type": "git",
+        "url":"git://github.com/aljaroudi/randos-web.git"
+    },
+    "bugs": {
+        "url": "https://github.com/aljaroudi/randos-web/issues"
+    },
+    "homepage": "https://github.com/aljaroudi/randos-web"
+}
